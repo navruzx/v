@@ -1,0 +1,13 @@
+.a {
+    text-transform: none;
+}
+.b {
+    text-transform: capitalize;
+}
+.d {
+    text-transform: uppercase;
+
+}
+.e {
+    text-transform: lowercase;
+}
